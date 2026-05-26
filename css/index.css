@@ -1417,3 +1417,34 @@
   margin-top: 4px;
   color: rgba(255, 255, 255, 0.5);
 }
+
+.popup > * {
+  margin-bottom: 8px;
+}
+
+.popup h3 {
+  font-size: var(--heading-xl);
+}
+
+.popup ul {
+  list-style-type: disc;
+  padding-left: var(--base-unit);
+}
+
+.popup li {
+  margin-bottom: 0.5rem;
+}
+
+.popup a {
+  display: block;
+  color: blue;
+}
+
+.popup input[type="checkbox"] {
+  width: auto;
+  margin-right: 0.5rem;
+}
+
+.popup button {
+  cursor: pointer;
+}

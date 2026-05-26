@@ -23,6 +23,7 @@
       referrerpolicy="no-referrer" />
     <link rel="stylesheet" href="css/common.css" />
     <link rel="stylesheet" href="css/index.css" />
+    <script src="./js/script.js" defer></script>
   </head>
 
   <body>
@@ -39,12 +40,12 @@
             <a href="index.html " class="text-logo">이스트 캠프</a>
           </h1>
           <div class="header-menu-box">
-            <label for="header-menu" class="menu-button1"
-              ><span class="material-icons-outlined"> menu </span></label
-            >
-            <label for="header-menu" class="menu-button2"
-              ><span class="material-icons-outlined">clear</span></label
-            >
+            <label for="header-menu" class="menu-button1">
+              <span class="material-icons-outlined">menu</span>
+            </label>
+            <label for="header-menu" class="menu-button2">
+              <span class="material-icons-outlined">clear</span>
+            </label>
           </div>
         </div>
         <nav>
@@ -72,6 +73,22 @@
       </div>
     </header>
     <main>
+      <dialog class="popup">
+        <h3>오르미 부트캠프 신청 사이트 리뉴얼 프로젝트</h3>
+        <p>본 사이트는 팀 프로젝트 포트폴리오 사이트입니다.</p>
+        <ul>
+          <li>과정명:오르미 프론트엔드 13기</li>
+          <li>2025/04/28 ~ 2025/05/12</li>
+          <li>개발환경:HTML,CSS</li>
+          <li>소스 관리:Github</li>
+        </ul>
+        <a href="https://github.com/agw76638/est_fe13_1st_project_clone/">
+          깃허브 주소
+        </a>
+        <input type="checkbox" id="agree" />
+        <label for="agree">하루 안보기</label>
+        <button class="close-button badge">닫기</button>
+      </dialog>
       <!-- hero sectiton - 송민혁 -->
       <section class="hero" id="intro">
         <div class="container hero-wrapper">
