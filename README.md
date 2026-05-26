@@ -221,7 +221,7 @@ gantt
 
 ## 2.2 배포 URL
 
-- [EST CAMP Frontend 14th Renewal Project](https://jeju-ratus.github.io/est_fe13_1st_project/)
+- [EST CAMP Frontend 14th Renewal Project](https://agw76638.github.io/est_fe13_1st_project_clone/)
 
 ---
 
