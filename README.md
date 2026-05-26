@@ -15,7 +15,7 @@
 
 - 📑 [기획서 (Figma Slide)](https://www.figma.com/slides/CzlKmuxOolFBtCKjY7I2Cs)
 - 🎨 [디자인 원본 (Figma)](https://www.figma.com/design/cW7HTzL1lrRohmqDPyWXby/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%94%94%EC%9E%90%EC%9D%B8-%ED%98%84%EC%9E%AC-%EC%8A%A4%ED%86%A0%EB%A6%AC%EB%B3%B4%EB%93%9C-%EB%B0%8F-%EB%94%94%EC%9E%90%EC%9D%B8-?node-id=138-3672&t=oELWAzQ1IcYig6Ac-1)
-- 🌐[EST CAMP Frontend 14th Renewal Project](https://jeju-ratus.github.io/est_fe13_1st_project/)
+- 🌐[EST CAMP Frontend 14th Renewal Project](https://agw76638.github.io/est_fe13_1st_project_clone/)
 
 ---
 
